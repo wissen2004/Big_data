@@ -1,0 +1,1001 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+43582,Baku,38,Shopping,boat,Rome
+30305,Astana,54,Sightseeing,subway,Paris
+54645,Bishkek,47,Cultural,bicycle,Amsterdam
+58436,Yerevan,35,Hiking,motorcycle,Barcelona
+44349,Almaty,40,Skiing,tram,Sydney
+54827,Istanbul,32,Skiing,bus,New York
+95122,Istanbul,62,Skiing,plane,London
+39996,Tbilisi,44,Hiking,boat,Sydney
+74876,Istanbul,61,Skiing,tram,Amsterdam
+76236,Astana,55,Hiking,boat,Tokyo
+78289,Astana,35,Hiking,subway,Sydney
+49171,Bishkek,50,Cruise,helicopter,Rome
+79837,Astana,61,Skiing,auto,New York
+54567,Istanbul,32,Shopping,bus,Rome
+64444,Osh,46,Safari,auto,Moscow
+43835,Almaty,53,Hiking,bicycle,Rome
+91183,Tbilisi,55,Cultural,bus,New York
+45260,Cairo,30,Shopping,train,Tokyo
+52527,Almaty,64,Hiking,train,London
+51591,Yerevan,57,Relaxation,helicopter,Barcelona
+84273,Bishkek,62,Cruise,tram,Moscow
+65705,Yerevan,35,Cultural,plane,Moscow
+30546,Tashkent,53,Relaxation,tram,New York
+97073,Astana,44,Adventure,auto,Berlin
+86887,Astana,65,Adventure,motorcycle,Tokyo
+97924,Istanbul,57,Hiking,subway,Barcelona
+40100,Yerevan,42,Cultural,train,Barcelona
+52182,Astana,32,Beach holiday,plane,Berlin
+47501,Baku,44,Safari,boat,Tokyo
+34066,Osh,39,Cruise,plane,London
+92392,Bishkek,36,Shopping,tram,Amsterdam
+45461,Tbilisi,46,Cruise,bus,Tokyo
+79906,Yerevan,54,Safari,plane,Rome
+46587,Tbilisi,46,Cultural,boat,Amsterdam
+99897,Almaty,48,Safari,auto,Moscow
+31746,Osh,61,Shopping,plane,Tokyo
+97034,Osh,33,Sightseeing,bus,Moscow
+56659,Baku,57,Skiing,boat,London
+80273,Tashkent,61,Beach holiday,bicycle,New York
+73267,Astana,40,Relaxation,auto,Sydney
+34518,Osh,31,Skiing,auto,Amsterdam
+57168,Tashkent,43,Adventure,helicopter,Paris
+95219,Osh,47,Safari,boat,Berlin
+82386,Osh,46,Safari,tram,Tokyo
+81258,Astana,46,Sightseeing,motorcycle,Sydney
+41109,Tashkent,62,Safari,helicopter,Tokyo
+87136,Almaty,55,Hiking,motorcycle,Tokyo
+89051,Bishkek,60,Shopping,bicycle,New York
+70270,Tbilisi,44,Safari,auto,Sydney
+33830,Yerevan,45,Shopping,train,Berlin
+57341,Almaty,41,Cultural,helicopter,Berlin
+41066,Cairo,54,Safari,helicopter,London
+91101,Almaty,62,Sightseeing,bicycle,London
+76162,Tashkent,32,Sightseeing,plane,Amsterdam
+32047,Baku,36,Skiing,bicycle,New York
+63741,Almaty,47,Safari,subway,Sydney
+50005,Osh,64,Cultural,bicycle,Amsterdam
+54045,Almaty,40,Hiking,plane,Paris
+85253,Tbilisi,39,Cruise,auto,Paris
+90814,Osh,35,Adventure,train,Moscow
+39458,Astana,61,Skiing,bus,Moscow
+32303,Bishkek,39,Relaxation,boat,Barcelona
+61776,Bishkek,62,Cruise,tram,Sydney
+93517,Cairo,58,Safari,boat,Sydney
+86084,Cairo,32,Safari,bus,New York
+83374,Baku,56,Sightseeing,auto,London
+64557,Astana,58,Skiing,helicopter,Sydney
+65111,Tbilisi,54,Relaxation,helicopter,New York
+97674,Astana,47,Safari,plane,Sydney
+60478,Cairo,39,Skiing,plane,Berlin
+80271,Cairo,35,Sightseeing,motorcycle,London
+50922,Yerevan,61,Cultural,plane,Tokyo
+64759,Cairo,65,Sightseeing,tram,Sydney
+53553,Tbilisi,33,Safari,bus,Amsterdam
+97496,Almaty,63,Sightseeing,tram,Paris
+72873,Tashkent,32,Relaxation,tram,Tokyo
+91188,Istanbul,31,Cultural,bicycle,Moscow
+37955,Astana,30,Beach holiday,bus,Sydney
+82059,Almaty,30,Skiing,auto,London
+38158,Yerevan,38,Hiking,bicycle,Barcelona
+57479,Almaty,57,Cruise,bus,Berlin
+60903,Tashkent,30,Sightseeing,plane,Barcelona
+67786,Bishkek,60,Cruise,bus,Barcelona
+71468,Tbilisi,41,Adventure,bus,London
+93588,Yerevan,55,Sightseeing,plane,Berlin
+89280,Astana,45,Safari,bus,Rome
+50771,Almaty,41,Skiing,plane,Paris
+82120,Bishkek,43,Sightseeing,auto,Berlin
+86735,Istanbul,49,Cruise,boat,Barcelona
+88660,Astana,64,Skiing,motorcycle,London
+45441,Astana,42,Beach holiday,plane,Tokyo
+33287,Yerevan,54,Cultural,bus,Barcelona
+92088,Bishkek,38,Cultural,plane,Sydney
+88308,Yerevan,52,Skiing,subway,Paris
+95715,Bishkek,30,Beach holiday,subway,New York
+60866,Almaty,44,Relaxation,helicopter,Moscow
+82475,Bishkek,42,Skiing,helicopter,Moscow
+59191,Istanbul,53,Adventure,plane,Barcelona
+38761,Yerevan,52,Cruise,bicycle,Moscow
+66472,Osh,33,Skiing,bus,Amsterdam
+40514,Astana,56,Cruise,subway,Barcelona
+72752,Istanbul,31,Sightseeing,plane,Moscow
+64431,Cairo,55,Sightseeing,helicopter,Paris
+47644,Yerevan,56,Beach holiday,train,Berlin
+34506,Yerevan,36,Shopping,bus,Tokyo
+40877,Osh,36,Adventure,bicycle,Barcelona
+64379,Almaty,49,Shopping,helicopter,Berlin
+87762,Osh,32,Shopping,motorcycle,Paris
+53605,Astana,39,Hiking,plane,Moscow
+43669,Tbilisi,54,Adventure,bus,Moscow
+86088,Yerevan,38,Relaxation,plane,Paris
+69878,Tashkent,30,Cruise,boat,Sydney
+91297,Astana,65,Skiing,plane,London
+71670,Baku,32,Skiing,boat,Berlin
+99929,Tbilisi,45,Shopping,tram,London
+95008,Almaty,46,Beach holiday,helicopter,Berlin
+35328,Osh,31,Shopping,auto,Rome
+94034,Almaty,32,Sightseeing,train,Tokyo
+99861,Almaty,42,Shopping,bus,Barcelona
+74448,Bishkek,61,Relaxation,motorcycle,New York
+42047,Istanbul,45,Beach holiday,subway,New York
+74148,Cairo,56,Cultural,bus,Tokyo
+45764,Cairo,51,Sightseeing,bus,Tokyo
+68301,Yerevan,62,Relaxation,tram,Sydney
+94452,Cairo,30,Hiking,plane,Rome
+70775,Tbilisi,33,Adventure,plane,Sydney
+84311,Astana,53,Adventure,plane,New York
+82749,Osh,40,Cruise,bicycle,Berlin
+43592,Baku,36,Adventure,plane,Moscow
+41114,Tashkent,38,Sightseeing,subway,Sydney
+63522,Cairo,36,Safari,motorcycle,Paris
+65824,Istanbul,63,Hiking,subway,Paris
+49994,Tashkent,47,Skiing,boat,Moscow
+86566,Osh,31,Cruise,boat,Barcelona
+79343,Astana,33,Safari,motorcycle,New York
+81266,Istanbul,44,Skiing,bus,Amsterdam
+34899,Istanbul,37,Cruise,motorcycle,Paris
+53012,Tashkent,34,Beach holiday,bicycle,Berlin
+52406,Cairo,46,Hiking,train,Amsterdam
+54537,Bishkek,44,Relaxation,auto,Paris
+95307,Osh,45,Relaxation,train,Sydney
+86270,Istanbul,54,Sightseeing,boat,Tokyo
+43519,Baku,34,Beach holiday,bicycle,Rome
+36948,Osh,65,Beach holiday,tram,Sydney
+60206,Almaty,49,Sightseeing,tram,New York
+98912,Astana,63,Shopping,tram,Moscow
+35480,Yerevan,33,Skiing,train,Amsterdam
+67699,Tbilisi,58,Safari,plane,Moscow
+77161,Bishkek,43,Beach holiday,helicopter,Tokyo
+66100,Tashkent,47,Shopping,boat,Rome
+88948,Tashkent,43,Cruise,subway,Rome
+51422,Cairo,43,Beach holiday,motorcycle,Barcelona
+35999,Tashkent,63,Skiing,subway,New York
+53462,Baku,65,Skiing,plane,Moscow
+65588,Osh,55,Hiking,train,Berlin
+54045,Cairo,61,Adventure,tram,Amsterdam
+54522,Baku,59,Sightseeing,motorcycle,Barcelona
+40796,Almaty,34,Relaxation,boat,Rome
+68517,Baku,63,Skiing,bus,Sydney
+50834,Astana,60,Skiing,bicycle,Barcelona
+95179,Osh,47,Hiking,auto,Moscow
+83383,Bishkek,30,Shopping,auto,Rome
+78756,Yerevan,37,Shopping,subway,Barcelona
+56748,Bishkek,51,Hiking,subway,Rome
+94714,Tashkent,35,Relaxation,boat,Sydney
+67291,Baku,52,Cruise,subway,New York
+74702,Istanbul,43,Cruise,auto,Sydney
+61734,Tashkent,51,Safari,auto,London
+79685,Tashkent,46,Cultural,train,Berlin
+96559,Istanbul,47,Cultural,bus,Amsterdam
+36146,Almaty,52,Skiing,tram,Tokyo
+72165,Astana,53,Beach holiday,auto,London
+86386,Baku,38,Hiking,bus,Rome
+53934,Bishkek,39,Sightseeing,motorcycle,Tokyo
+39525,Tbilisi,42,Cruise,helicopter,Tokyo
+45242,Astana,34,Skiing,plane,Sydney
+93681,Tashkent,49,Cultural,tram,Berlin
+49297,Astana,65,Relaxation,tram,Tokyo
+74700,Bishkek,64,Adventure,train,Rome
+65326,Baku,48,Cultural,boat,New York
+50556,Baku,65,Skiing,subway,Berlin
+35612,Bishkek,65,Shopping,auto,Tokyo
+51113,Osh,36,Hiking,bicycle,Moscow
+48154,Yerevan,49,Cruise,boat,Tokyo
+68524,Yerevan,63,Sightseeing,plane,Amsterdam
+96140,Almaty,58,Hiking,bus,Moscow
+88880,Bishkek,57,Skiing,auto,New York
+73586,Almaty,59,Adventure,helicopter,Paris
+72741,Astana,53,Hiking,helicopter,Tokyo
+63837,Tashkent,37,Hiking,bicycle,Amsterdam
+59057,Istanbul,41,Shopping,subway,Sydney
+88420,Almaty,39,Sightseeing,tram,London
+96874,Osh,44,Beach holiday,auto,Tokyo
+56399,Tbilisi,49,Adventure,train,New York
+55434,Bishkek,36,Beach holiday,boat,Berlin
+41241,Tbilisi,63,Adventure,tram,Sydney
+75719,Yerevan,61,Relaxation,train,Amsterdam
+52422,Istanbul,61,Hiking,auto,New York
+31772,Cairo,34,Relaxation,tram,New York
+91773,Astana,32,Shopping,subway,Berlin
+90855,Astana,35,Safari,train,Moscow
+65437,Astana,63,Safari,tram,Amsterdam
+99827,Astana,62,Cruise,plane,Tokyo
+68909,Tashkent,51,Cruise,auto,Barcelona
+31685,Istanbul,30,Skiing,boat,Barcelona
+81711,Tashkent,64,Beach holiday,auto,Barcelona
+95993,Tashkent,42,Adventure,helicopter,London
+94437,Tashkent,31,Hiking,motorcycle,London
+43785,Osh,61,Cultural,train,Sydney
+87229,Osh,55,Cultural,train,Sydney
+57245,Istanbul,56,Beach holiday,boat,Barcelona
+97794,Yerevan,54,Cultural,motorcycle,London
+99082,Almaty,53,Beach holiday,boat,Tokyo
+79244,Bishkek,38,Beach holiday,boat,Rome
+71174,Astana,58,Safari,plane,Rome
+79838,Bishkek,40,Adventure,plane,Berlin
+94347,Cairo,47,Beach holiday,subway,Amsterdam
+92838,Bishkek,33,Skiing,boat,Sydney
+68720,Istanbul,55,Safari,boat,Amsterdam
+88282,Yerevan,58,Adventure,helicopter,Paris
+33948,Tashkent,33,Safari,boat,Amsterdam
+79511,Yerevan,36,Relaxation,helicopter,Barcelona
+94708,Cairo,32,Cruise,auto,Rome
+30875,Almaty,58,Hiking,helicopter,New York
+32270,Almaty,37,Cultural,helicopter,Paris
+33510,Cairo,32,Skiing,bus,Paris
+52071,Tbilisi,30,Cruise,tram,Sydney
+78372,Almaty,42,Cultural,helicopter,Moscow
+78142,Istanbul,42,Adventure,bicycle,Rome
+30512,Almaty,42,Cruise,boat,Tokyo
+66922,Istanbul,53,Hiking,bus,New York
+88190,Baku,43,Beach holiday,subway,Barcelona
+48324,Astana,50,Hiking,bus,New York
+64028,Baku,37,Cultural,train,London
+49604,Almaty,56,Safari,helicopter,Berlin
+30088,Tbilisi,36,Cruise,motorcycle,Barcelona
+34451,Baku,60,Shopping,bicycle,Barcelona
+51298,Astana,51,Cruise,bus,Amsterdam
+60269,Osh,34,Shopping,auto,Berlin
+98340,Astana,55,Skiing,bus,Barcelona
+98415,Yerevan,43,Cruise,plane,London
+92812,Osh,43,Beach holiday,auto,New York
+47303,Baku,60,Adventure,auto,Rome
+77098,Bishkek,31,Beach holiday,motorcycle,Rome
+30787,Tashkent,64,Cultural,auto,New York
+76431,Tbilisi,64,Sightseeing,subway,London
+91200,Almaty,46,Cultural,helicopter,Rome
+56307,Cairo,52,Safari,motorcycle,Rome
+46582,Yerevan,39,Adventure,bus,Paris
+30075,Yerevan,56,Shopping,helicopter,Sydney
+85791,Baku,33,Cruise,bus,Moscow
+60242,Baku,46,Shopping,motorcycle,Amsterdam
+78686,Istanbul,43,Sightseeing,boat,Tokyo
+49678,Baku,48,Cruise,motorcycle,Amsterdam
+60879,Astana,39,Beach holiday,boat,London
+38410,Osh,39,Adventure,bicycle,Moscow
+38549,Baku,54,Adventure,helicopter,Moscow
+64658,Almaty,31,Cultural,tram,Rome
+78021,Cairo,46,Adventure,subway,New York
+54741,Astana,35,Cultural,boat,London
+99067,Almaty,40,Shopping,plane,Amsterdam
+72439,Istanbul,34,Skiing,bicycle,Amsterdam
+45151,Osh,38,Sightseeing,boat,Moscow
+78014,Astana,52,Hiking,motorcycle,Moscow
+36701,Almaty,37,Relaxation,train,Moscow
+81417,Tbilisi,44,Hiking,motorcycle,Tokyo
+94597,Bishkek,55,Cultural,motorcycle,Barcelona
+81906,Almaty,62,Beach holiday,bicycle,Moscow
+30927,Astana,35,Cruise,plane,New York
+52880,Cairo,59,Hiking,plane,Rome
+68804,Almaty,35,Cultural,motorcycle,Moscow
+76565,Yerevan,58,Cruise,bicycle,Berlin
+70291,Yerevan,35,Cultural,boat,Paris
+31179,Bishkek,53,Sightseeing,helicopter,Rome
+95449,Istanbul,31,Shopping,boat,Moscow
+55758,Baku,52,Skiing,boat,Barcelona
+40216,Almaty,34,Beach holiday,auto,Moscow
+51033,Baku,45,Relaxation,train,Rome
+81282,Almaty,43,Sightseeing,tram,New York
+72160,Tashkent,59,Sightseeing,auto,Berlin
+48174,Istanbul,35,Cultural,bicycle,Tokyo
+40779,Yerevan,61,Relaxation,tram,Tokyo
+52028,Istanbul,39,Cultural,helicopter,London
+30715,Osh,65,Skiing,train,Amsterdam
+53873,Osh,35,Safari,helicopter,Rome
+77527,Cairo,38,Hiking,subway,Sydney
+86896,Bishkek,46,Adventure,auto,Barcelona
+72628,Astana,64,Relaxation,bus,Barcelona
+36523,Istanbul,44,Skiing,helicopter,Barcelona
+88666,Tbilisi,64,Skiing,plane,Rome
+59985,Tashkent,41,Skiing,auto,New York
+48273,Baku,41,Safari,bicycle,New York
+53768,Osh,46,Relaxation,motorcycle,New York
+55561,Baku,36,Cruise,motorcycle,Amsterdam
+69974,Istanbul,63,Sightseeing,bus,Barcelona
+87791,Cairo,62,Hiking,auto,New York
+49430,Tashkent,32,Cruise,bicycle,New York
+92356,Astana,42,Cultural,motorcycle,Paris
+64982,Almaty,46,Skiing,bicycle,Barcelona
+46961,Tbilisi,40,Relaxation,train,Rome
+38634,Tbilisi,43,Skiing,train,Tokyo
+62937,Baku,63,Relaxation,helicopter,Rome
+64903,Istanbul,50,Hiking,tram,Paris
+75333,Almaty,44,Safari,helicopter,New York
+45357,Istanbul,53,Safari,helicopter,Rome
+52972,Tbilisi,60,Sightseeing,helicopter,Berlin
+45823,Astana,34,Hiking,helicopter,Rome
+55090,Osh,65,Relaxation,bicycle,London
+73247,Tbilisi,59,Cruise,auto,Rome
+52548,Istanbul,62,Shopping,helicopter,Amsterdam
+52552,Almaty,45,Cultural,auto,Tokyo
+88047,Istanbul,53,Hiking,boat,Berlin
+64361,Astana,62,Safari,plane,Paris
+40705,Cairo,65,Cultural,auto,Barcelona
+72260,Istanbul,41,Relaxation,train,Berlin
+61690,Almaty,57,Hiking,subway,Moscow
+50520,Astana,33,Beach holiday,motorcycle,Barcelona
+95279,Astana,37,Sightseeing,subway,Berlin
+42635,Osh,46,Safari,bicycle,Tokyo
+30790,Cairo,38,Hiking,auto,Moscow
+72714,Yerevan,54,Cruise,helicopter,Amsterdam
+47462,Bishkek,64,Relaxation,plane,Paris
+39063,Almaty,43,Safari,tram,Paris
+52974,Almaty,36,Sightseeing,subway,Moscow
+73640,Cairo,52,Beach holiday,train,Tokyo
+45936,Tashkent,47,Hiking,bus,Sydney
+92240,Istanbul,36,Beach holiday,subway,London
+79311,Baku,55,Adventure,tram,Paris
+36084,Tashkent,55,Cruise,subway,Rome
+74362,Yerevan,44,Beach holiday,helicopter,Tokyo
+83179,Osh,56,Cruise,motorcycle,Tokyo
+55097,Cairo,50,Skiing,plane,Barcelona
+33992,Yerevan,32,Beach holiday,auto,Paris
+64937,Almaty,63,Safari,motorcycle,London
+48482,Istanbul,65,Shopping,train,Barcelona
+87945,Tbilisi,64,Adventure,tram,Paris
+49921,Yerevan,39,Cruise,boat,Berlin
+68230,Istanbul,49,Adventure,boat,Rome
+44782,Bishkek,59,Adventure,bicycle,Tokyo
+85643,Cairo,57,Relaxation,plane,Paris
+79794,Almaty,39,Hiking,helicopter,Amsterdam
+30119,Tbilisi,49,Cruise,train,Berlin
+67968,Osh,45,Cruise,auto,New York
+93927,Bishkek,41,Sightseeing,plane,Moscow
+76740,Tbilisi,35,Safari,train,Amsterdam
+65239,Istanbul,49,Shopping,helicopter,Tokyo
+90970,Baku,52,Beach holiday,helicopter,Tokyo
+71755,Almaty,54,Safari,subway,Paris
+97220,Astana,54,Cruise,bicycle,Moscow
+92843,Baku,33,Cruise,train,Barcelona
+41987,Almaty,33,Relaxation,boat,Amsterdam
+90048,Yerevan,54,Shopping,bus,Moscow
+63633,Astana,31,Safari,boat,Rome
+82241,Osh,63,Relaxation,auto,Tokyo
+57484,Cairo,36,Cruise,motorcycle,London
+55307,Yerevan,57,Beach holiday,helicopter,Sydney
+86599,Tashkent,54,Cruise,plane,Berlin
+55204,Astana,43,Sightseeing,bus,Moscow
+88948,Osh,41,Cultural,train,Rome
+99271,Astana,58,Cultural,tram,Barcelona
+33354,Osh,41,Shopping,auto,Tokyo
+89334,Tbilisi,33,Cultural,auto,Rome
+43518,Tbilisi,42,Skiing,tram,New York
+42053,Tashkent,53,Skiing,subway,New York
+93681,Almaty,43,Sightseeing,tram,Sydney
+46618,Tashkent,30,Beach holiday,tram,Moscow
+74077,Bishkek,46,Relaxation,helicopter,New York
+34728,Almaty,31,Cultural,motorcycle,New York
+59028,Baku,64,Adventure,subway,Berlin
+61349,Cairo,60,Sightseeing,bus,Moscow
+99205,Yerevan,64,Cruise,boat,London
+49359,Istanbul,62,Shopping,plane,Tokyo
+89197,Baku,30,Relaxation,helicopter,London
+42494,Istanbul,44,Sightseeing,boat,Paris
+38253,Astana,37,Sightseeing,bus,Moscow
+69087,Cairo,62,Shopping,helicopter,Moscow
+50861,Osh,51,Adventure,helicopter,London
+99061,Cairo,34,Beach holiday,boat,Paris
+90972,Tashkent,39,Hiking,plane,Paris
+67003,Tbilisi,42,Adventure,plane,Sydney
+53343,Tbilisi,58,Hiking,tram,Tokyo
+84050,Yerevan,53,Shopping,plane,Sydney
+54089,Istanbul,52,Shopping,bus,Sydney
+99365,Osh,32,Adventure,bicycle,Paris
+92994,Osh,53,Cultural,train,New York
+64403,Istanbul,52,Relaxation,tram,New York
+84384,Almaty,42,Sightseeing,tram,Moscow
+57428,Tashkent,61,Cruise,plane,Tokyo
+85184,Istanbul,31,Cruise,train,Rome
+39388,Bishkek,43,Skiing,motorcycle,London
+31181,Astana,34,Hiking,plane,Tokyo
+87457,Osh,52,Relaxation,bicycle,Berlin
+48911,Almaty,39,Hiking,bus,Barcelona
+87401,Bishkek,59,Safari,boat,Moscow
+75224,Istanbul,51,Adventure,bicycle,Moscow
+57799,Baku,38,Relaxation,train,Rome
+99423,Tbilisi,51,Shopping,bus,New York
+64982,Yerevan,31,Cruise,plane,Paris
+79453,Almaty,49,Adventure,tram,Amsterdam
+52268,Bishkek,45,Hiking,motorcycle,Tokyo
+33053,Astana,48,Skiing,subway,Paris
+98301,Baku,41,Relaxation,tram,London
+90253,Tashkent,63,Cruise,auto,Paris
+46905,Bishkek,43,Adventure,tram,Tokyo
+72304,Bishkek,62,Shopping,plane,Moscow
+50109,Cairo,45,Safari,subway,Rome
+67416,Tbilisi,35,Relaxation,motorcycle,Tokyo
+90075,Almaty,44,Adventure,tram,Amsterdam
+92790,Bishkek,37,Safari,motorcycle,Amsterdam
+90125,Baku,55,Shopping,motorcycle,Barcelona
+34007,Yerevan,59,Safari,boat,Barcelona
+58451,Almaty,30,Cultural,bus,Berlin
+49884,Yerevan,51,Skiing,subway,London
+47192,Tashkent,30,Beach holiday,bicycle,Barcelona
+84540,Almaty,62,Cultural,bus,Barcelona
+69800,Osh,65,Sightseeing,subway,Berlin
+56895,Tbilisi,34,Shopping,train,Rome
+62928,Bishkek,39,Hiking,bicycle,Sydney
+71619,Bishkek,53,Sightseeing,boat,Paris
+58502,Yerevan,52,Hiking,plane,Berlin
+98640,Bishkek,60,Safari,plane,London
+88961,Tbilisi,63,Cultural,auto,Amsterdam
+53947,Tbilisi,65,Hiking,auto,Sydney
+68559,Cairo,31,Safari,train,Moscow
+93984,Cairo,65,Adventure,helicopter,London
+39952,Osh,59,Beach holiday,subway,Barcelona
+45732,Istanbul,38,Beach holiday,bicycle,Barcelona
+72684,Osh,53,Relaxation,bus,Amsterdam
+30824,Baku,36,Cultural,tram,New York
+71062,Cairo,39,Hiking,train,Tokyo
+31843,Almaty,47,Hiking,subway,Barcelona
+41741,Cairo,36,Cultural,train,Paris
+78542,Almaty,35,Hiking,helicopter,Berlin
+34030,Almaty,45,Cruise,auto,Rome
+41363,Osh,51,Cultural,train,Paris
+82521,Baku,57,Shopping,helicopter,Paris
+46865,Cairo,44,Sightseeing,train,Tokyo
+45340,Tashkent,39,Cruise,bicycle,Rome
+95910,Almaty,62,Skiing,helicopter,Barcelona
+70302,Istanbul,41,Beach holiday,bicycle,New York
+45824,Osh,56,Beach holiday,bicycle,Moscow
+45811,Baku,44,Cultural,plane,Tokyo
+30460,Astana,59,Hiking,plane,Tokyo
+35533,Yerevan,61,Hiking,auto,Paris
+50067,Almaty,51,Sightseeing,motorcycle,Rome
+42463,Yerevan,57,Shopping,helicopter,Paris
+51822,Yerevan,59,Relaxation,motorcycle,Berlin
+41528,Yerevan,32,Relaxation,bicycle,Moscow
+55290,Baku,54,Safari,helicopter,Amsterdam
+65990,Astana,46,Shopping,boat,New York
+36675,Baku,51,Beach holiday,plane,Amsterdam
+83791,Istanbul,50,Cruise,bus,London
+83881,Cairo,52,Shopping,bicycle,London
+62278,Osh,64,Relaxation,helicopter,Tokyo
+36466,Almaty,56,Shopping,auto,Barcelona
+80432,Tbilisi,36,Shopping,bus,Moscow
+66401,Bishkek,45,Safari,helicopter,Barcelona
+36404,Cairo,30,Relaxation,bus,Tokyo
+49082,Tashkent,60,Sightseeing,auto,New York
+47672,Yerevan,61,Cultural,train,Sydney
+64554,Tashkent,48,Shopping,bus,London
+59099,Tashkent,41,Cruise,bus,Amsterdam
+48077,Yerevan,44,Skiing,plane,Berlin
+43119,Istanbul,43,Shopping,plane,Paris
+97448,Cairo,40,Beach holiday,tram,Rome
+71658,Astana,62,Sightseeing,bus,Paris
+79398,Astana,54,Cultural,helicopter,Paris
+37615,Almaty,44,Relaxation,bicycle,London
+61426,Yerevan,33,Sightseeing,bus,Paris
+30057,Yerevan,48,Hiking,boat,Rome
+89407,Baku,32,Safari,tram,Moscow
+85393,Tbilisi,34,Cruise,boat,Moscow
+46760,Tashkent,65,Skiing,auto,London
+88366,Almaty,58,Hiking,auto,Amsterdam
+67127,Bishkek,58,Skiing,boat,New York
+45688,Astana,53,Beach holiday,tram,Moscow
+51560,Osh,54,Beach holiday,auto,Rome
+59786,Cairo,43,Cultural,bus,Moscow
+35114,Tashkent,55,Cruise,tram,Berlin
+47611,Almaty,64,Adventure,tram,Barcelona
+35211,Cairo,59,Safari,motorcycle,New York
+84123,Tashkent,44,Cruise,motorcycle,Tokyo
+46367,Osh,39,Cultural,bicycle,Tokyo
+73715,Osh,35,Shopping,bus,Amsterdam
+31510,Cairo,54,Skiing,bus,Rome
+50797,Yerevan,59,Hiking,boat,Moscow
+95953,Baku,65,Beach holiday,plane,Rome
+35402,Cairo,51,Safari,motorcycle,London
+30798,Osh,47,Skiing,helicopter,Paris
+61992,Tashkent,47,Adventure,auto,Moscow
+79706,Istanbul,43,Safari,tram,Sydney
+53120,Tashkent,37,Safari,tram,Rome
+72404,Tbilisi,38,Skiing,auto,London
+92723,Astana,44,Adventure,bicycle,Barcelona
+69138,Istanbul,43,Skiing,plane,Moscow
+68255,Bishkek,35,Relaxation,helicopter,New York
+75581,Bishkek,64,Skiing,motorcycle,Rome
+98742,Astana,51,Skiing,auto,Barcelona
+32162,Baku,52,Cultural,bus,Berlin
+74398,Baku,47,Adventure,bicycle,Rome
+59406,Tashkent,45,Cruise,bicycle,Paris
+72544,Baku,33,Shopping,boat,Berlin
+33514,Bishkek,31,Cultural,plane,Paris
+52136,Osh,34,Cultural,auto,New York
+74572,Tbilisi,42,Relaxation,plane,Berlin
+40651,Istanbul,61,Cultural,motorcycle,Barcelona
+69299,Astana,45,Cruise,subway,Moscow
+72127,Osh,36,Skiing,motorcycle,New York
+63429,Almaty,65,Cruise,tram,New York
+81795,Astana,61,Sightseeing,bicycle,Paris
+39266,Yerevan,62,Safari,subway,Berlin
+87643,Istanbul,62,Relaxation,tram,Sydney
+67254,Baku,35,Relaxation,motorcycle,London
+70296,Cairo,37,Cultural,bicycle,Rome
+68083,Bishkek,56,Cruise,plane,Sydney
+36174,Bishkek,57,Hiking,boat,New York
+78624,Osh,32,Beach holiday,auto,Barcelona
+77594,Osh,61,Shopping,bicycle,Rome
+96080,Astana,49,Cruise,helicopter,Moscow
+68941,Almaty,58,Relaxation,auto,Sydney
+61058,Baku,53,Cruise,plane,Sydney
+79580,Bishkek,35,Adventure,bus,Barcelona
+97470,Yerevan,53,Skiing,train,Barcelona
+40261,Tashkent,42,Relaxation,helicopter,Tokyo
+84976,Almaty,61,Shopping,helicopter,Tokyo
+60978,Baku,44,Sightseeing,train,Tokyo
+32533,Tbilisi,54,Skiing,tram,Berlin
+43886,Astana,61,Safari,plane,Moscow
+94991,Tashkent,34,Safari,motorcycle,Sydney
+83377,Yerevan,41,Beach holiday,bicycle,Tokyo
+97897,Istanbul,30,Beach holiday,boat,Moscow
+58697,Tashkent,57,Hiking,tram,Berlin
+97258,Bishkek,46,Cultural,boat,Barcelona
+32342,Osh,46,Safari,auto,Barcelona
+37002,Almaty,52,Sightseeing,subway,Moscow
+95102,Bishkek,39,Sightseeing,bicycle,Sydney
+31031,Cairo,39,Shopping,helicopter,Amsterdam
+96145,Tashkent,35,Hiking,train,Rome
+60559,Osh,55,Cruise,helicopter,New York
+39495,Tbilisi,37,Relaxation,plane,London
+64160,Cairo,56,Safari,auto,Sydney
+59845,Tbilisi,58,Hiking,bicycle,Rome
+92526,Bishkek,35,Beach holiday,tram,Berlin
+67902,Tbilisi,56,Shopping,bicycle,Tokyo
+52467,Almaty,64,Shopping,subway,Paris
+61522,Tashkent,62,Cruise,boat,Rome
+84666,Istanbul,50,Sightseeing,bus,Paris
+91339,Osh,33,Adventure,auto,London
+72226,Osh,59,Cultural,bicycle,New York
+30183,Istanbul,40,Relaxation,helicopter,London
+90725,Baku,39,Cruise,auto,Rome
+72235,Yerevan,50,Cultural,motorcycle,Tokyo
+41557,Osh,61,Beach holiday,boat,Paris
+41277,Cairo,53,Cultural,bus,New York
+68359,Istanbul,63,Shopping,bus,Rome
+79753,Cairo,37,Hiking,bus,Sydney
+53034,Astana,61,Adventure,helicopter,London
+63274,Almaty,47,Shopping,boat,Berlin
+95632,Astana,31,Cruise,tram,Moscow
+70623,Yerevan,52,Relaxation,plane,New York
+33185,Tbilisi,60,Hiking,plane,Rome
+60373,Almaty,34,Hiking,bicycle,London
+51143,Baku,31,Relaxation,boat,Barcelona
+55636,Bishkek,56,Beach holiday,bus,Paris
+75684,Astana,33,Hiking,plane,Paris
+35780,Astana,53,Safari,auto,Berlin
+74743,Almaty,57,Sightseeing,plane,Sydney
+55443,Baku,57,Beach holiday,motorcycle,Tokyo
+85778,Tbilisi,59,Skiing,boat,New York
+81703,Tashkent,43,Skiing,auto,Paris
+90457,Istanbul,47,Hiking,bicycle,New York
+77663,Astana,59,Beach holiday,subway,Tokyo
+68377,Istanbul,54,Hiking,train,Moscow
+88474,Istanbul,54,Relaxation,motorcycle,Rome
+57069,Istanbul,53,Shopping,tram,Amsterdam
+88216,Almaty,30,Sightseeing,motorcycle,Barcelona
+71285,Tbilisi,51,Hiking,motorcycle,Tokyo
+89618,Almaty,52,Adventure,motorcycle,Sydney
+31979,Tbilisi,46,Sightseeing,subway,London
+88589,Astana,61,Adventure,helicopter,Barcelona
+37088,Osh,49,Sightseeing,plane,Berlin
+98682,Istanbul,46,Sightseeing,motorcycle,Barcelona
+31864,Tashkent,65,Cruise,bus,New York
+76537,Istanbul,52,Cultural,auto,London
+73503,Yerevan,32,Safari,motorcycle,Sydney
+65683,Cairo,64,Adventure,helicopter,Sydney
+69170,Bishkek,48,Beach holiday,tram,Paris
+55645,Osh,50,Safari,tram,London
+78782,Astana,50,Relaxation,train,Amsterdam
+78090,Tbilisi,36,Adventure,bus,Moscow
+38695,Astana,34,Shopping,boat,Tokyo
+74660,Astana,51,Relaxation,tram,Rome
+95321,Almaty,30,Adventure,bicycle,Tokyo
+73848,Tbilisi,48,Shopping,helicopter,Rome
+79941,Istanbul,37,Cultural,bicycle,Berlin
+39333,Astana,39,Skiing,bicycle,Rome
+53315,Yerevan,37,Skiing,auto,Sydney
+30696,Tbilisi,42,Relaxation,plane,Sydney
+31483,Almaty,55,Relaxation,auto,Tokyo
+56271,Tashkent,57,Adventure,subway,London
+87392,Osh,41,Cultural,tram,Amsterdam
+55481,Astana,42,Relaxation,tram,Barcelona
+33014,Istanbul,37,Sightseeing,bicycle,Rome
+99487,Osh,57,Hiking,motorcycle,Sydney
+30052,Baku,57,Adventure,motorcycle,Moscow
+61804,Bishkek,57,Sightseeing,auto,Rome
+83996,Istanbul,51,Beach holiday,subway,Rome
+90756,Bishkek,62,Shopping,boat,Amsterdam
+91530,Baku,50,Relaxation,bicycle,Sydney
+56528,Istanbul,41,Beach holiday,plane,Amsterdam
+55959,Yerevan,63,Relaxation,bicycle,Paris
+53189,Yerevan,51,Sightseeing,boat,Amsterdam
+86473,Tbilisi,38,Hiking,subway,Berlin
+87924,Bishkek,30,Hiking,bus,Berlin
+79639,Baku,59,Beach holiday,bus,Moscow
+81411,Tbilisi,47,Sightseeing,subway,Rome
+88847,Osh,50,Shopping,bus,Rome
+58868,Cairo,43,Relaxation,bus,Tokyo
+56912,Astana,32,Cultural,bicycle,Paris
+32528,Almaty,45,Sightseeing,auto,London
+85615,Bishkek,51,Hiking,plane,Tokyo
+44378,Baku,55,Safari,motorcycle,London
+91067,Yerevan,32,Safari,train,Moscow
+32039,Astana,32,Hiking,motorcycle,Rome
+30517,Yerevan,61,Shopping,bus,Tokyo
+34989,Tbilisi,32,Safari,bicycle,Amsterdam
+40276,Istanbul,58,Shopping,bicycle,Sydney
+65462,Yerevan,65,Safari,helicopter,Tokyo
+88639,Astana,43,Hiking,auto,London
+63777,Tashkent,60,Safari,bicycle,New York
+63423,Istanbul,49,Sightseeing,train,Sydney
+62779,Tashkent,64,Hiking,bus,Berlin
+40674,Bishkek,38,Cruise,helicopter,Barcelona
+47280,Baku,34,Sightseeing,auto,Rome
+79508,Cairo,51,Sightseeing,helicopter,Paris
+38506,Cairo,39,Beach holiday,boat,Moscow
+70966,Osh,58,Cultural,plane,Sydney
+91213,Cairo,48,Shopping,bicycle,Moscow
+93160,Astana,63,Safari,train,Rome
+82014,Almaty,49,Safari,subway,Barcelona
+34746,Baku,62,Skiing,boat,New York
+73632,Astana,38,Relaxation,bus,Amsterdam
+32897,Almaty,54,Safari,bus,Tokyo
+41985,Almaty,55,Adventure,bus,Rome
+96880,Tbilisi,51,Shopping,boat,Paris
+48903,Almaty,42,Sightseeing,subway,Sydney
+38305,Yerevan,40,Shopping,auto,Rome
+42510,Almaty,55,Cultural,boat,New York
+94193,Baku,52,Hiking,helicopter,New York
+78961,Almaty,31,Hiking,bicycle,Barcelona
+44277,Istanbul,60,Cruise,motorcycle,Barcelona
+88783,Yerevan,39,Cultural,train,Tokyo
+47217,Almaty,51,Skiing,auto,Tokyo
+70430,Cairo,37,Safari,tram,Sydney
+75392,Osh,56,Adventure,boat,Rome
+53279,Bishkek,61,Sightseeing,train,London
+35509,Almaty,46,Hiking,tram,Barcelona
+59917,Cairo,33,Cruise,helicopter,London
+66718,Baku,65,Shopping,auto,New York
+52082,Cairo,48,Sightseeing,auto,Paris
+66467,Baku,58,Skiing,train,Tokyo
+99582,Baku,37,Sightseeing,auto,New York
+38224,Yerevan,61,Relaxation,boat,Amsterdam
+59033,Yerevan,56,Safari,bus,New York
+35009,Astana,36,Skiing,train,Paris
+74270,Almaty,51,Relaxation,boat,Rome
+34875,Almaty,42,Shopping,boat,Amsterdam
+42122,Tbilisi,55,Cultural,train,New York
+45943,Baku,33,Beach holiday,helicopter,Rome
+64966,Tbilisi,42,Cultural,train,Amsterdam
+32315,Tbilisi,37,Skiing,bus,Berlin
+57139,Bishkek,33,Adventure,tram,Barcelona
+50873,Cairo,30,Cultural,bicycle,Amsterdam
+45848,Yerevan,54,Adventure,auto,New York
+81003,Tbilisi,55,Relaxation,auto,Tokyo
+52757,Tbilisi,61,Safari,plane,Moscow
+83660,Istanbul,53,Shopping,plane,Barcelona
+79299,Osh,58,Safari,boat,London
+89485,Osh,54,Cruise,helicopter,Moscow
+45519,Almaty,44,Sightseeing,tram,Rome
+93156,Almaty,65,Skiing,auto,New York
+30131,Yerevan,45,Shopping,subway,Amsterdam
+40454,Astana,56,Cruise,boat,Paris
+50069,Almaty,31,Safari,plane,Moscow
+61538,Baku,51,Adventure,train,Berlin
+64925,Cairo,53,Cruise,boat,Moscow
+42733,Istanbul,41,Cultural,auto,Moscow
+31325,Baku,52,Safari,plane,Berlin
+57876,Cairo,38,Shopping,bus,Berlin
+86480,Bishkek,40,Relaxation,motorcycle,London
+84148,Osh,33,Cruise,train,Barcelona
+56522,Cairo,55,Cultural,subway,Tokyo
+46412,Baku,33,Beach holiday,helicopter,New York
+84338,Tashkent,60,Shopping,auto,Rome
+83278,Yerevan,59,Hiking,subway,Rome
+96085,Tashkent,44,Adventure,subway,Sydney
+31375,Tbilisi,46,Safari,train,Sydney
+56623,Baku,63,Hiking,helicopter,Moscow
+39443,Osh,59,Relaxation,plane,Rome
+31224,Almaty,57,Skiing,bus,Rome
+34190,Tbilisi,48,Cultural,helicopter,Rome
+35588,Osh,50,Skiing,bicycle,Barcelona
+61447,Cairo,47,Shopping,plane,Moscow
+37616,Tbilisi,56,Hiking,tram,New York
+65806,Tbilisi,46,Adventure,tram,Paris
+84859,Tbilisi,62,Beach holiday,motorcycle,Amsterdam
+99881,Tbilisi,34,Cruise,auto,New York
+71221,Tashkent,44,Beach holiday,boat,Rome
+32769,Cairo,30,Hiking,bus,Rome
+57436,Tashkent,38,Sightseeing,helicopter,Rome
+38870,Istanbul,31,Sightseeing,bicycle,Sydney
+75094,Tashkent,37,Cultural,bicycle,Paris
+57609,Istanbul,61,Skiing,helicopter,Sydney
+94638,Bishkek,33,Beach holiday,bicycle,Tokyo
+78557,Tbilisi,50,Sightseeing,train,Tokyo
+58258,Astana,52,Shopping,tram,Tokyo
+54204,Almaty,42,Sightseeing,tram,Rome
+44847,Istanbul,34,Adventure,train,Amsterdam
+98729,Osh,39,Cultural,subway,New York
+95413,Almaty,39,Beach holiday,plane,Berlin
+49255,Istanbul,48,Hiking,helicopter,London
+47867,Istanbul,34,Relaxation,subway,Paris
+77066,Astana,58,Cruise,auto,Sydney
+31191,Yerevan,57,Sightseeing,subway,Sydney
+61420,Tashkent,35,Cruise,auto,Berlin
+85498,Bishkek,47,Cultural,tram,Moscow
+37603,Cairo,53,Cruise,bicycle,Sydney
+83781,Astana,37,Shopping,auto,Sydney
+42516,Baku,35,Relaxation,tram,Barcelona
+38804,Tbilisi,44,Safari,train,Moscow
+93720,Yerevan,31,Safari,train,Rome
+94154,Almaty,33,Adventure,motorcycle,Rome
+39110,Tashkent,61,Safari,plane,London
+63285,Yerevan,65,Safari,subway,Amsterdam
+35152,Osh,59,Cultural,bicycle,New York
+81047,Istanbul,48,Sightseeing,auto,Moscow
+60953,Cairo,35,Beach holiday,tram,Paris
+99274,Tbilisi,36,Cruise,plane,Moscow
+60500,Astana,52,Adventure,train,Sydney
+91609,Tbilisi,58,Cultural,helicopter,Sydney
+93869,Yerevan,57,Safari,helicopter,Amsterdam
+95387,Tbilisi,54,Relaxation,bus,Moscow
+68732,Tbilisi,32,Sightseeing,boat,Paris
+80596,Osh,35,Sightseeing,tram,Berlin
+49956,Tbilisi,56,Relaxation,bicycle,Amsterdam
+97243,Tbilisi,39,Cruise,boat,Paris
+84824,Tbilisi,35,Safari,tram,Amsterdam
+82750,Bishkek,51,Beach holiday,subway,Sydney
+58019,Yerevan,47,Sightseeing,motorcycle,New York
+67924,Baku,48,Beach holiday,plane,London
+42940,Yerevan,37,Cultural,train,Sydney
+36603,Baku,55,Cultural,boat,Moscow
+71048,Yerevan,55,Skiing,motorcycle,Tokyo
+59947,Osh,35,Sightseeing,subway,Rome
+64094,Tbilisi,49,Safari,train,London
+35091,Baku,34,Shopping,plane,London
+99417,Cairo,45,Relaxation,auto,Paris
+34721,Istanbul,41,Cultural,bicycle,Sydney
+39481,Astana,37,Cultural,train,Rome
+54655,Osh,52,Cultural,boat,Barcelona
+84242,Istanbul,30,Skiing,tram,Berlin
+84870,Almaty,37,Beach holiday,motorcycle,Berlin
+56268,Cairo,40,Relaxation,helicopter,Tokyo
+42596,Astana,61,Hiking,bicycle,Paris
+33120,Tashkent,57,Relaxation,subway,Rome
+75679,Almaty,34,Relaxation,boat,Rome
+82514,Astana,59,Relaxation,helicopter,Moscow
+81026,Almaty,49,Safari,plane,Amsterdam
+82280,Tashkent,44,Beach holiday,tram,Paris
+40394,Istanbul,65,Cruise,tram,Tokyo
+99836,Istanbul,55,Sightseeing,boat,Paris
+62000,Almaty,34,Sightseeing,bus,New York
+55948,Bishkek,65,Beach holiday,plane,London
+76129,Baku,37,Hiking,subway,Rome
+97217,Cairo,49,Relaxation,motorcycle,Amsterdam
+84319,Tashkent,47,Cultural,subway,Moscow
+53527,Istanbul,49,Safari,boat,Barcelona
+87188,Almaty,60,Adventure,boat,Tokyo
+88243,Tbilisi,31,Shopping,plane,Berlin
+45552,Bishkek,47,Beach holiday,tram,Barcelona
+82161,Istanbul,64,Shopping,bicycle,New York
+50675,Baku,55,Beach holiday,helicopter,Paris
+83833,Bishkek,49,Skiing,boat,London
+50403,Tashkent,34,Safari,plane,Sydney
+88290,Yerevan,35,Beach holiday,motorcycle,London
+43591,Bishkek,48,Beach holiday,plane,Amsterdam
+31319,Tashkent,37,Beach holiday,boat,Rome
+76039,Almaty,59,Hiking,bus,Amsterdam
+76788,Tashkent,60,Cultural,helicopter,Amsterdam
+72491,Tashkent,30,Safari,tram,New York
+39051,Yerevan,30,Adventure,subway,Barcelona
+59053,Yerevan,51,Shopping,tram,London
+97117,Astana,65,Shopping,plane,Barcelona
+37724,Cairo,46,Safari,subway,Moscow
+84341,Baku,32,Relaxation,auto,Moscow
+90938,Cairo,33,Safari,bicycle,Moscow
+98936,Osh,63,Skiing,boat,Amsterdam
+98931,Tashkent,65,Shopping,boat,Moscow
+61508,Istanbul,62,Cultural,motorcycle,Rome
+51712,Baku,33,Skiing,tram,Moscow
+85549,Bishkek,34,Beach holiday,boat,New York
+75642,Baku,31,Shopping,train,Tokyo
+93180,Astana,50,Shopping,subway,New York
+63142,Tashkent,58,Sightseeing,plane,Sydney
+90943,Cairo,37,Relaxation,motorcycle,Rome
+98724,Yerevan,60,Shopping,bicycle,Barcelona
+64906,Osh,59,Beach holiday,plane,Berlin
+67978,Yerevan,51,Relaxation,bus,Berlin
+94137,Tbilisi,38,Adventure,boat,Sydney
+41442,Tbilisi,41,Adventure,boat,Sydney
+55546,Baku,48,Cruise,motorcycle,London
+49009,Astana,43,Adventure,tram,London
+76170,Almaty,64,Sightseeing,bus,Berlin
+79323,Tbilisi,50,Skiing,motorcycle,Barcelona
+84439,Osh,52,Safari,auto,New York
+57239,Almaty,54,Skiing,plane,New York
+44287,Baku,36,Beach holiday,tram,Berlin
+72280,Bishkek,35,Shopping,bus,Berlin
+83310,Cairo,49,Shopping,helicopter,Barcelona
+54204,Tbilisi,34,Shopping,boat,Paris
+41486,Astana,40,Relaxation,auto,Rome
+89367,Bishkek,34,Relaxation,bus,Sydney
+51974,Astana,44,Adventure,bus,Rome
+89343,Yerevan,65,Hiking,train,Barcelona
+81641,Bishkek,53,Skiing,plane,Berlin
+85447,Istanbul,65,Skiing,tram,Tokyo
+99908,Baku,62,Relaxation,bus,Tokyo
+54433,Cairo,44,Shopping,boat,Paris
+50408,Almaty,46,Hiking,motorcycle,Tokyo
+36082,Bishkek,41,Safari,tram,Sydney
+76891,Istanbul,57,Sightseeing,bicycle,Amsterdam
+46158,Baku,62,Skiing,bicycle,Berlin
+81746,Tashkent,40,Cruise,tram,Rome
+49294,Baku,65,Cruise,auto,New York
+73243,Tashkent,45,Cruise,boat,New York
+44577,Almaty,37,Sightseeing,tram,Moscow
+88164,Istanbul,55,Cruise,boat,Berlin
+59264,Bishkek,32,Sightseeing,auto,Sydney
+47791,Bishkek,58,Cultural,subway,Paris
+43046,Osh,41,Sightseeing,helicopter,Paris
+87450,Almaty,59,Hiking,bus,Barcelona
+76522,Bishkek,49,Relaxation,bicycle,Barcelona
+56612,Almaty,50,Beach holiday,subway,Paris
+99085,Tbilisi,43,Skiing,bus,Rome
+42098,Cairo,65,Relaxation,tram,Moscow
+89405,Tashkent,46,Beach holiday,helicopter,Amsterdam
+30167,Tbilisi,50,Adventure,auto,Rome
+83920,Bishkek,46,Adventure,helicopter,Sydney
+42395,Bishkek,59,Safari,tram,Rome
+74087,Tashkent,37,Safari,plane,New York
+49912,Tbilisi,41,Adventure,train,Barcelona
+71118,Almaty,58,Relaxation,boat,Tokyo
+31901,Baku,63,Safari,tram,Rome
+69877,Almaty,38,Shopping,plane,Tokyo
+51985,Almaty,51,Skiing,motorcycle,Sydney
+61610,Bishkek,40,Hiking,helicopter,Barcelona
+49930,Osh,55,Shopping,bus,New York
+71494,Astana,33,Cruise,train,Barcelona
+67504,Baku,48,Hiking,helicopter,Sydney
+82308,Tashkent,32,Beach holiday,auto,Berlin
+30146,Baku,37,Beach holiday,auto,Moscow
+97267,Astana,33,Adventure,tram,Moscow
+79007,Yerevan,42,Adventure,boat,Berlin
+73087,Almaty,38,Cultural,tram,Barcelona
+70502,Baku,38,Cultural,train,New York
+91104,Cairo,41,Skiing,boat,Barcelona
+54785,Almaty,61,Cultural,subway,Paris
+67150,Almaty,56,Sightseeing,train,Berlin
+47836,Istanbul,45,Beach holiday,tram,Tokyo
+61282,Istanbul,57,Skiing,train,London
+77277,Astana,32,Safari,bus,Moscow
+55707,Tashkent,38,Relaxation,tram,Berlin
+84306,Tashkent,46,Relaxation,tram,Sydney
+50685,Almaty,35,Safari,train,Berlin
+59713,Yerevan,63,Hiking,helicopter,Rome
+69895,Astana,56,Relaxation,train,Amsterdam
+72304,Baku,37,Sightseeing,tram,New York
+92199,Osh,48,Safari,boat,Paris
+97613,Cairo,65,Cultural,subway,Tokyo
+85203,Tashkent,52,Sightseeing,bicycle,Berlin
+68111,Astana,64,Skiing,bus,Barcelona
+72282,Osh,33,Sightseeing,train,Berlin
+89682,Cairo,52,Cultural,boat,Barcelona
+90449,Tashkent,31,Safari,auto,Berlin
+36977,Cairo,50,Skiing,train,Barcelona
+91653,Bishkek,37,Cultural,bus,Sydney
+77210,Tbilisi,47,Adventure,bicycle,Amsterdam
+57551,Cairo,61,Cruise,train,Tokyo
+91044,Istanbul,34,Hiking,boat,Barcelona
+78006,Almaty,31,Sightseeing,helicopter,Sydney
+71975,Yerevan,34,Cruise,bus,Sydney
+71505,Tashkent,49,Safari,boat,Paris
+54812,Yerevan,37,Adventure,helicopter,Moscow
+39825,Almaty,45,Beach holiday,plane,New York
+74697,Cairo,35,Hiking,subway,Barcelona
+33906,Bishkek,65,Cultural,plane,Tokyo
+98628,Osh,42,Beach holiday,plane,Paris
+61880,Cairo,37,Beach holiday,boat,Paris
+44445,Yerevan,60,Cruise,tram,New York
+81118,Tbilisi,56,Cultural,motorcycle,New York
+85932,Istanbul,58,Sightseeing,helicopter,Tokyo
+51673,Baku,48,Hiking,tram,London
+30863,Almaty,40,Adventure,train,Tokyo
+69379,Osh,37,Relaxation,subway,Berlin
+84547,Osh,60,Hiking,plane,Sydney
+33718,Tbilisi,43,Beach holiday,motorcycle,Barcelona
+52372,Cairo,31,Skiing,helicopter,Berlin
+48153,Baku,32,Shopping,bus,Barcelona
+60349,Tashkent,61,Adventure,boat,Amsterdam
+32745,Tashkent,49,Hiking,tram,Moscow
+37838,Istanbul,38,Hiking,helicopter,Amsterdam
+67007,Osh,34,Skiing,train,Tokyo
+98516,Tbilisi,33,Hiking,boat,London
+59194,Istanbul,58,Cruise,subway,Barcelona
+41755,Yerevan,65,Hiking,auto,London
+54475,Cairo,52,Relaxation,tram,Sydney
+94846,Astana,34,Relaxation,helicopter,Barcelona
+65058,Astana,30,Beach holiday,helicopter,London
+93393,Bishkek,39,Cultural,tram,New York
+45984,Osh,41,Beach holiday,bus,London
+78594,Bishkek,38,Safari,bicycle,Berlin
+54516,Almaty,41,Skiing,subway,Tokyo
+75417,Yerevan,41,Sightseeing,boat,Paris
+57963,Baku,39,Skiing,auto,Berlin
+80197,Tbilisi,44,Relaxation,boat,Paris
+94246,Osh,61,Adventure,plane,Moscow
+55140,Baku,35,Sightseeing,motorcycle,Berlin
+53874,Tbilisi,44,Beach holiday,bicycle,Barcelona
+73500,Baku,50,Cruise,bus,London
+74088,Tbilisi,46,Cultural,boat,New York
+59994,Cairo,32,Sightseeing,motorcycle,London
+71283,Tashkent,58,Shopping,train,Rome
+98233,Tashkent,55,Adventure,subway,New York
+74191,Almaty,31,Relaxation,plane,Paris
+59295,Istanbul,32,Relaxation,plane,London
+82294,Istanbul,45,Cruise,auto,Paris
+32884,Astana,58,Safari,auto,Barcelona
+71654,Yerevan,64,Beach holiday,plane,Barcelona
+44350,Osh,47,Skiing,tram,Rome
+93349,Tbilisi,58,Shopping,subway,Berlin
+50827,Osh,53,Hiking,helicopter,New York
+78811,Istanbul,54,Relaxation,helicopter,Amsterdam
+76809,Baku,62,Adventure,auto,Paris
+79697,Tbilisi,42,Adventure,helicopter,Sydney
+52615,Almaty,64,Hiking,bus,London
+54581,Baku,31,Hiking,tram,New York
+85794,Osh,45,Relaxation,bicycle,Tokyo
+43103,Astana,47,Skiing,plane,London
+59934,Baku,60,Relaxation,motorcycle,Paris
+90206,Astana,30,Skiing,plane,Rome
+43785,Osh,65,Sightseeing,motorcycle,Sydney
+71842,Almaty,49,Beach holiday,plane,Amsterdam
+81437,Bishkek,47,Beach holiday,bicycle,Sydney
+85310,Istanbul,31,Skiing,subway,Paris
+75727,Tbilisi,55,Skiing,boat,London
+35491,Istanbul,37,Safari,auto,Sydney
+85337,Cairo,58,Adventure,helicopter,Tokyo
+71459,Bishkek,37,Cultural,bicycle,Sydney
+87332,Tashkent,58,Sightseeing,helicopter,New York
+84691,Almaty,64,Safari,helicopter,New York
+92045,Tbilisi,40,Sightseeing,bicycle,Rome
+53338,Baku,58,Relaxation,subway,Tokyo
+55866,Cairo,57,Adventure,bus,Berlin
+83226,Tashkent,37,Hiking,motorcycle,Paris
+86524,Tbilisi,57,Safari,motorcycle,London
+82230,Astana,48,Beach holiday,auto,Sydney
+89455,Cairo,38,Hiking,bicycle,Tokyo
+92323,Tashkent,56,Hiking,bicycle,London
+60940,Tbilisi,49,Skiing,boat,Tokyo
+51341,Yerevan,48,Cruise,subway,Sydney
+70908,Tashkent,58,Sightseeing,subway,Tokyo
+38251,Cairo,55,Sightseeing,train,Moscow
+76866,Istanbul,37,Skiing,boat,Barcelona
+83518,Tashkent,63,Beach holiday,boat,London
+60833,Astana,33,Beach holiday,plane,Amsterdam
+55339,Astana,32,Sightseeing,boat,Tokyo
+55970,Tbilisi,52,Hiking,subway,Moscow
+46276,Bishkek,33,Hiking,subway,Sydney
+56250,Istanbul,57,Hiking,plane,Berlin
+75151,Yerevan,59,Cruise,boat,Rome
+31200,Tbilisi,64,Relaxation,plane,Paris
+40275,Almaty,33,Beach holiday,tram,London
+33969,Baku,59,Sightseeing,helicopter,Paris
+30077,Yerevan,61,Relaxation,boat,London
+93305,Baku,51,Safari,boat,Paris
+98622,Almaty,51,Cultural,plane,Paris
+33141,Baku,34,Skiing,auto,New York
+69170,Tashkent,48,Safari,plane,Barcelona
+51141,Baku,61,Adventure,plane,Rome
+40208,Bishkek,36,Cruise,bicycle,London
+85027,Astana,54,Hiking,bicycle,New York
+87451,Yerevan,40,Skiing,motorcycle,Amsterdam
+76689,Baku,64,Skiing,bus,London
+53444,Baku,53,Relaxation,bus,Paris
+69805,Istanbul,49,Cultural,plane,Tokyo
+40693,Yerevan,48,Sightseeing,bus,Paris
+57989,Tbilisi,61,Adventure,bicycle,Berlin
+61599,Osh,56,Cultural,helicopter,Paris
+95195,Istanbul,42,Beach holiday,helicopter,Moscow
+87893,Baku,55,Sightseeing,tram,Sydney
